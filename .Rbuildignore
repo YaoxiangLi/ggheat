@@ -5,4 +5,5 @@
 ^dev$
 ^README\.Rmd$
 ^_pkgdown\.yml$
+^cran-comments\.md$
 ^LICENSE\.md$

@@ -1,0 +1,26 @@
+Package: ggheat
+Title: Publication-Ready Heatmaps with 'ggplot2'
+Version: 0.1.0
+Authors@R:
+    person("Yaoxiang", "Li", email = "liyaoxiang@outlook.com",
+           role = c("aut", "cre"))
+Description: Creates publication-ready heatmaps from numeric matrices, wide
+    data frames, or tidy long-form data. Supports row and column
+    standardization, hierarchical clustering, cell labels, configurable
+    colour scales, and an optional interactive 'Shiny' application.
+License: MIT + file LICENSE
+URL: https://github.com/YaoxiangLi/ggheat
+BugReports: https://github.com/YaoxiangLi/ggheat/issues
+Depends:
+    R (>= 4.1.0)
+Imports: 
+    config,
+    ggplot2,
+    golem,
+    rlang,
+    shiny
+Suggests:
+    testthat (>= 3.0.0)
+Encoding: UTF-8
+RoxygenNote: 8.0.0
+Config/testthat/edition: 3

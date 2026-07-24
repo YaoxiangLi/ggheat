@@ -9,7 +9,8 @@ Description: Creates publication-ready heatmaps from numeric matrices, wide
     standardization, hierarchical clustering, cell labels, configurable
     colour scales, and an optional interactive 'Shiny' application.
 License: MIT + file LICENSE
-URL: https://github.com/YaoxiangLi/ggheat
+URL: https://yaoxiangli.github.io/ggheat/,
+    https://github.com/YaoxiangLi/ggheat
 BugReports: https://github.com/YaoxiangLi/ggheat/issues
 Depends:
     R (>= 4.1.0)

@@ -31,5 +31,6 @@ ggheat(
 Launch the interactive application with:
 
 ```r
+install.packages(c("shiny", "golem", "config"))
 ggheat::run_app()
 ```

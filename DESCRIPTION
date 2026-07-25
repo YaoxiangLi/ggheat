@@ -15,12 +15,12 @@ BugReports: https://github.com/YaoxiangLi/ggheat/issues
 Depends:
     R (>= 4.1.0)
 Imports: 
-    config,
     ggplot2,
-    golem,
-    rlang,
-    shiny
+    rlang
 Suggests:
+    config,
+    golem,
+    shiny,
     testthat (>= 3.0.0)
 Encoding: UTF-8
 RoxygenNote: 8.0.0
